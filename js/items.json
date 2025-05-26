@@ -1,0 +1,127 @@
+[
+    {
+      "id": 0,
+      "img": "img/product/product10.jpg",
+      "img_hover": "/img/product10.jpg",
+      "name": "Trendy blouse",
+      "price": 185,
+      "old_price": 225
+    },
+    {
+      "id": 1,
+      "img": "img/product/product11.jpg",
+      "img_hover": "img/product/product11.jpg",
+      "name": "Trendy blouse",
+      "price": 100,
+      "old_price": 120
+    },
+    {
+      "id": 2,
+      "img": "img/product/product12.jpg",
+      "img_hover": "img/product/product12.jpg",
+      "name": "Trendy blouse",
+      "price": 140,
+      "old_price": 200
+    },
+    {
+      "id": 3,
+      "img": "img/product/product13.jpg",
+      "img_hover": "img/product/product13.jpg",
+      "name": "Cassic pants",
+      "price": 90,
+      "old_price": 110
+    },
+    {
+      "id": 4,
+      "img": "img/product/product15.jpg",
+      "img_hover": "img/product/product15.jpg",
+      "name": "Cassic pants",
+      "price": 350,
+      "old_price": 420
+
+    },
+    {
+      "id": 5,
+      "img": "img/product/product16.jpg",
+      "img_hover": "img/product/product16.jpg",
+      "name": "Cassic pants",
+      "price": 115,
+      "old_price": 235
+    },
+    {
+      "id": 6,
+      "img": "img/product/product17.jpg",
+      "img_hover": "img/product/product17.jpg",
+      "name": "Cool Dresses",
+      "price": 225,
+      "old_price": 280
+    },
+    {
+      "id": 7,
+      "img": "img/product/product18.jpg",
+      "img_hover": "img/product/product18.jpg",
+      "name": "Cool Dresses",
+      "price": 150,
+      "old_price": 200
+    },
+    {
+      "id": 8,
+      "img": "img/product/product19.jpg",
+      "img_hover": "img/product/product19.jpg",
+      "name": "Cool Dresses",
+      "price": 180
+    },
+    {
+      "id": 9,
+      "img": "img/product/product20.jpg",
+      "img_hover": "img/product/product20.jpg",
+      "name": "Watches",
+      "price": 300
+    },
+    {
+      "id": 10,
+      "img": "img/product/product21.jpg",
+      "img_hover": "img/product/product21.jpg",
+      "name": "Watches",
+      "price": 250
+    },
+    {
+      "id": 11,
+      "img": "img/product/product22.jpg",
+      "img_hover": "img/product/product22.jpg",
+      "name": "Watches",
+      "price": 120
+    },
+    {
+      "id": 12,
+      "img": "img/product25.jpg",
+      "img_hover": "img/product/product25.jpg",
+      "name": "Scarves",
+      "price": 90
+    },
+    {
+      "id": 13,
+      "img": "img/product/product23.jpg",
+      "img_hover": "img/product/product23.jpg",
+      "name": "Scarves",
+      "price": 129
+    },
+    {
+      "id": 14,
+      "img": "img/product/product24.jpg",
+      "img_hover": "img/product/product24.jpg",
+      "name": "Scarves",
+      "price": 180
+    },
+    {
+      "id": 15,
+      "img": "img/product/product26.jpg",
+      "img_hover": "img/product/product26.jpg",
+      "name": "Beauteful Dress",
+      "price": 60
+    }
+
+
+
+
+  ]
